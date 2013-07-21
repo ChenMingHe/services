@@ -1,4 +1,4 @@
-source :rubygems
+source "http://ruby.taobao.org/"
 
 gem 'eventmachine', :git => 'git://github.com/cloudfoundry/eventmachine.git', :branch => 'release-0.12.11-cf'
 gem 'vcap_common', :require => ['vcap/common', 'vcap/component'], :git => 'git://github.com/cloudfoundry/vcap-common.git', :ref => '68d86f57fb'

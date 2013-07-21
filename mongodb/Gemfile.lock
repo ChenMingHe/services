@@ -67,7 +67,7 @@ GIT
       beefcake
 
 GEM
-  remote: http://rubygems.org/
+  remote: http://ruby.taobao.org/
   specs:
     addressable (2.2.8)
     bcrypt-ruby (2.1.4)

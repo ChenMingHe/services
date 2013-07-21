@@ -67,7 +67,7 @@ GIT
       beefcake
 
 GEM
-  remote: http://rubygems.org/
+  remote: http://ruby.taobao.org/
   specs:
     addressable (2.2.8)
     amqp (0.7.1)
