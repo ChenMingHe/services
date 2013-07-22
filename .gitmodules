@@ -1,3 +1,6 @@
 [submodule "govendor"]
 	path = govendor
 	url = git://github.com/cloudfoundry/govendor.git
+[submodule "echo"]
+	path = echo
+	url = https://github.com/ChenMingHe/echo.git
